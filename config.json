@@ -1,0 +1,8 @@
+{
+  "server_port": 8081,
+  "mysql_username": "root",
+  "mysql_password": "my-secret-pw",
+  "mysql_server": "127.0.0.1",
+  "mysql_database": "vvvv",
+  "mysql_port": 3306
+}

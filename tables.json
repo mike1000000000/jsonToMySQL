@@ -1,0 +1,12 @@
+{
+  "EA5CEB4C-3C7D-4098-85C6-ABC66F0E686A": {
+    "Table": "Table_1",
+    "Fields": ["stock", "amount", "price"],
+    "Alias": ["symbol", "openQuantity", "currentPrice"]
+  },
+  "00EEF14B-A216-447E-978B-2312FFF3F517": {
+    "Table": "Table_2",
+    "Fields": ["id", "name", "vals"],
+    "Alias": ["identity", "fullname", "info"]
+  }
+}
