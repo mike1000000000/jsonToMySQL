@@ -82,7 +82,7 @@ Use `--help` to show the help menu.
 Use `--verbose` to show more information on the webserver.
 
 ##### Version
-Use `--version` to the show the version info.
+Use `--version` to show the version info.
 
 ---
 
