@@ -7,6 +7,14 @@ This is a simple webserver that takes a preformatted http get request and parses
 Run this server on the configured port (see below) and effect http requests against the server. The server will respond to the client with either an 'Ok' or 'Failed' response indicating a record was created/updated or the transaction failed. 
 &nbsp;
 
+## Install
+
+The MySQL driver needs to be installed prior to running this package. 
+```
+$ go get -u github.com/go-sql-driver/mysql
+$ git clone https://github.com/mike1000000000/jsonToMySQL.git .
+```
+
 ## Syntax
 ```
 $ go.exe run /path/to/jsonToMySQL.go [arguments]
